@@ -1,4 +1,5 @@
-# repositoriodevendas
+# Repositório de projeto comercial no Power BI
+
 Sobre o Projeto: A Vertex Tennis é uma empresa que comercializa os mais diversos artigos de Tênis para todo o Brasil, tendo principal objetivo: "[...] Ser a principal referência em artigos de tênis no Brasil, liderando o mercado com inovação, excelência e atendimento personalizado, contribuindo para que o tênis se torne acessível e popular no país. [...]".
 
 Em continuidade, fomos contatados pelo setor comercial da empresa para auxiliá-los na elaboração de um relatório dinâmico e funcional, o qual apresentasse informações relevantes sobre o core business - tais como a quantidade de vendas, o faturamento, a segmentação de vendas por região e demais detalhes de importância.
